@@ -1,0 +1,4 @@
+Mi estimado le escribo esta nota para avisarle que el primer wireframe de alta como usted va a ver o ya vio, ahi una imagen chica que no cubre todo el fondo.
+Y es porque no sabia como pornerlo de fondo sin malograr o afectar el wireframe y por eso esta asi.
+Le aviso que en nuestra pagina web esa imagen se va a ubicar de fondo osea en el body.
+Muchas gracias por su atencion y que tenga buen dia :D
